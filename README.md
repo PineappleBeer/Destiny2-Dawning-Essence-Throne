@@ -1,4 +1,5 @@
-# Destiny2 Dawning
+# Destiny2 Dawning Essence Throne
+
 基于[OpenCV-Python](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)的命运2全自动挂机破碎王座刷曙光精华脚本。
 
 万万没想到，我刚写好脚本，棒鸡就更新并修复了这个bug，现在已经刷不了，但还是放上来，做个纪念吧。
