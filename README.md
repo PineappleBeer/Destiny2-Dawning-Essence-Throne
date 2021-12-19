@@ -91,7 +91,7 @@
 
 ### 车头为英文名
 
-用记事本打开`member.py`，将这里的`inputCodeEn`前的`#`删除，并在`inputCodeCn`前加上`#`，于是变成这样。
+用记事本打开`leader.py`，将这里的`inputCodeEn`前的`#`删除，并在`inputCodeCn`前加上`#`，于是变成这样。
 
     if compareImg('./img/input.png') != 0: 
         #inputCodeCn();
